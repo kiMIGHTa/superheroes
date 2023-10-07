@@ -1,1 +1,0 @@
-# superheroes_code-challenge
